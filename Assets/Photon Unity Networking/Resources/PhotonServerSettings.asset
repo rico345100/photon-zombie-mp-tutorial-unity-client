@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppID: ec8afd47-eb0d-462f-b424-d20b9e45256c
+  VoiceAppID: 
+  ChatAppID: 633504a2-9430-4002-90a6-27974f9cf2cb
+  HostType: 1
+  PreferredRegion: 9
+  EnabledRegions: -1
+  Protocol: 0
+  ServerAddress: 
+  ServerPort: 5055
+  VoiceServerPort: 5055
+  JoinLobby: 1
+  EnableLobbyStatistics: 0
+  PunLogging: 0
+  NetworkLogging: 1
+  RunInBackground: 1
+  RpcList:
+  - Chat
+  - ColorRpc
+  - DestroyRpc
+  - DoJump
+  - Flash
+  - InstantiateRpc
+  - Marco
+  - PickupItemInit
+  - Polo
+  - PunPickup
+  - PunPickupSimple
+  - PunRespawn
+  - RequestForPickupItems
+  - RequestForPickupTimes
+  - RPCPlayFireAnimation
+  - RPCPlayReloadAnimation
+  - RPCSetWeapon
+  - RPCSyncAnimator
+  - TaggedPlayer
+  - RPCPlaySoundThroughNetwork
+  - RPCPlayMuzzleflashThroughNetwork
+  - RPCBroadcastAttackAnimation
+  - RPCBroadcastDead
+  - RPCSyncHealth
+  - RPCDeployDeadBody
+  - RPCPlayerDead
+  - RPCPlayerSpawned
+  - RPCGameOver
+  - RPCRestartGame
+  - RPCStartGame
+  DisableAutoOpenWizard: 1

@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 8da0c404c264dd1448af9486c36bfee0
+timeCreated: 1521169517
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bullet1
+    100002: Bullet1_end
+    100004: Bullet2
+    100006: Bullet2_end
+    100008: Bullet3
+    100010: Bullet3_end
+    100012: Bullet4
+    100014: Bullet4_end
+    100016: Bullet5
+    100018: Bullet5_end
+    100020: Bullet6
+    100022: Bullet6_end
+    100024: Colt Python
+    100026: Cylinder
+    100028: Cylinder_end
+    100030: Extractor
+    100032: //RootNode
+    100034: FPSHand
+    100036: Gun
+    100038: Hammer
+    100040: Hammer_end
+    100042: hand_l
+    100044: hand_r
+    100046: Hands2
+    100048: ik_l_001
+    100050: ik_r_001
+    100052: index_01_l
+    100054: index_01_r
+    100056: index_02_l
+    100058: index_02_r
+    100060: index_03_l
+    100062: index_03_l_end
+    100064: index_03_r
+    100066: index_03_r_end
+    100068: lowerarm_l
+    100070: lowerarm_l_end
+    100072: lowerarm_r
+    100074: lowerarm_r_end
+    100076: middle_01_l
+    100078: middle_01_r
+    100080: middle_02_l
+    100082: middle_02_r
+    100084: middle_03_l
+    100086: middle_03_l_end
+    100088: middle_03_r
+    100090: middle_03_r_end
+    100092: pinky_01_l
+    100094: pinky_01_r
+    100096: pinky_02_l
+    100098: pinky_02_r
+    100100: pinky_03_l
+    100102: pinky_03_l_end
+    100104: pinky_03_r
+    100106: pinky_03_r_end
+    100108: ring_01_l
+    100110: ring_01_r
+    100112: ring_02_l
+    100114: ring_02_r
+    100116: ring_03_l
+    100118: ring_03_l_end
+    100120: ring_03_r
+    100122: ring_03_r_end
+    100124: Speedloader
+    100126: Speedloader_end
+    100128: thumb_01_l
+    100130: thumb_01_r
+    100132: thumb_02_l
+    100134: thumb_02_r
+    100136: thumb_03_l
+    100138: thumb_03_l_end
+    100140: thumb_03_r
+    100142: thumb_03_r_end
+    100144: Trigger
+    100146: Trigger_end
+    100148: upperarm_l
+    100150: upperarm_r
+    400000: Bullet1
+    400002: Bullet1_end
+    400004: Bullet2
+    400006: Bullet2_end
+    400008: Bullet3
+    400010: Bullet3_end
+    400012: Bullet4
+    400014: Bullet4_end
+    400016: Bullet5
+    400018: Bullet5_end
+    400020: Bullet6
+    400022: Bullet6_end
+    400024: Colt Python
+    400026: Cylinder
+    400028: Cylinder_end
+    400030: Extractor
+    400032: //RootNode
+    400034: FPSHand
+    400036: Gun
+    400038: Hammer
+    400040: Hammer_end
+    400042: hand_l
+    400044: hand_r
+    400046: Hands2
+    400048: ik_l_001
+    400050: ik_r_001
+    400052: index_01_l
+    400054: index_01_r
+    400056: index_02_l
+    400058: index_02_r
+    400060: index_03_l
+    400062: index_03_l_end
+    400064: index_03_r
+    400066: index_03_r_end
+    400068: lowerarm_l
+    400070: lowerarm_l_end
+    400072: lowerarm_r
+    400074: lowerarm_r_end
+    400076: middle_01_l
+    400078: middle_01_r
+    400080: middle_02_l
+    400082: middle_02_r
+    400084: middle_03_l
+    400086: middle_03_l_end
+    400088: middle_03_r
+    400090: middle_03_r_end
+    400092: pinky_01_l
+    400094: pinky_01_r
+    400096: pinky_02_l
+    400098: pinky_02_r
+    400100: pinky_03_l
+    400102: pinky_03_l_end
+    400104: pinky_03_r
+    400106: pinky_03_r_end
+    400108: ring_01_l
+    400110: ring_01_r
+    400112: ring_02_l
+    400114: ring_02_r
+    400116: ring_03_l
+    400118: ring_03_l_end
+    400120: ring_03_r
+    400122: ring_03_r_end
+    400124: Speedloader
+    400126: Speedloader_end
+    400128: thumb_01_l
+    400130: thumb_01_r
+    400132: thumb_02_l
+    400134: thumb_02_r
+    400136: thumb_03_l
+    400138: thumb_03_l_end
+    400140: thumb_03_r
+    400142: thumb_03_r_end
+    400144: Trigger
+    400146: Trigger_end
+    400148: upperarm_l
+    400150: upperarm_r
+    2100000: Healthmale_Body_Old_caucasian_male_detailed.001
+    2100002: Colt Python
+    2100004: Material.001
+    4300000: Hands2
+    4300002: Colt Python
+    7400000: Default
+    7400002: Draw
+    7400004: Fire
+    7400006: Reload
+    7400008: Stand
+    9500000: //RootNode
+    13700000: Colt Python
+    13700002: Hands2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colt Python
+    second: {fileID: 2100000, guid: 0821767ec18ff2b46aec188f1482490f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Healthmale_Body_Old_caucasian_male_detailed.001
+    second: {fileID: 2100000, guid: e4b7a255d9b08364fa58f08facc2a975, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default
+      takeName: FPSHand|Default
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Draw
+      takeName: FPSHand|Draw
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fire
+      takeName: FPSHand|Fire
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Reload
+      takeName: FPSHand|Reload
+      firstFrame: 0
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.17234044
+        functionName: OnMagOut
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.52340424
+        functionName: OnMagIn
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.80425537
+        functionName: OnBoltForwarded
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand
+      takeName: FPSHand|Stand
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
